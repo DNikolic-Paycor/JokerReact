@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import background from './assets/joker.jpg';
 import './App.css';
 
 class App extends Component {
