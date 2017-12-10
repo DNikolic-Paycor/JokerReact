@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Vollkorn+SC');
+
+.App {
+  background-image: url('./assets/joker.jpg');
+  background-repeat: no-repeat;
+  background-position:center;
+  background-size:cover;
+  height: 650px;
+
+}
+
+.App-header {
+  font-family: 'Vollkorn SC', serif;
+  height: 100px;
+  padding: 10px;
+  color:#252839;
+  line-height: 3px;
+}
+
+
+.App-joke{
+  font-family: 'Vollkorn SC', serif;
+  margin-top: 100px;
+  margin-left: 30px;
+  padding: 10px;
+  background-color: white;
+  width:550px;
+  height: 300px;
+}
+.align-center{
+  text-align: center;
+}
+.red-text{
+  color: #8A0707;
+}
+button{
+  background-color: white;
+  padding: 10px;
+  font-size: 120%;
+  border: 1px solid black;
+  font-family: 'Vollkorn SC', serif;
+}
+button:hover{
+  background-color:#bc1025;
+  color: white;
+}
